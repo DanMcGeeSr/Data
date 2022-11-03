@@ -1,0 +1,50 @@
+Measuring energy expenditure is difficult outside the laboratory.,
+ Surrogate measures are sought.  One possible surrogate is heart rate.,
+,
+These data come from an experiment  ran at LUMC,
+The question was whether heart rate as measured by a portable monitor was a good indicator of energy expenditure,
+"The gold standard for energy expenditure is oxygen expendature, but that is very expense to measure.",
+It requires wearing an air tight mask.,
+,
+Each of a group of graduate students was given tasks that required differing levels of effort.,
+each of the group wore the oxygen masks and a pulse rate monitor and the measurements were made at the same time.,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+oxygen,hrtrate
+0.625,101
+0.681,101
+0.751,103
+0.726,108
+0.77,106
+0.712,103
+0.77,105
+0.775,111
+0.785,109
+0.787,109
+0.751,108
+0.774,112
+0.846,115
+0.777,115
+0.914,120
+0.875,120
+0.876,120
+0.845,114
+0.874,124
+0.911,126
+0.956,125
+0.93,125
+0.939,123
+0.936,123
+0.983,136
+1.057,137
+1.144,140
+1.185,147
+1.16,147
+1.148,140

@@ -1,0 +1,50 @@
+*  crossover trial on Enuresis (bed wetting),,
+"*  source Piantadosi, citing Hill and Armitage",,
+*  each treatment lasted 14 days,,
+*  endpoint was the number of dry nights,,
+"num1  ""Number of dry nights, First period""",,
+"num2  ""Number of dry nights, second period""",,
+"order ""Order of treatment, 1= drug then placebo 0=placebo then drug""",,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+num1,num2,order
+8,5,1
+14,10,1
+8,0,1
+9,7,1
+11,6,1
+3,5,1
+6,0,1
+0,0,1
+13,12,1
+10,2,1
+7,5,1
+13,13,1
+8,10,1
+7,7,1
+9,0,1
+10,6,1
+2,2,1
+12,11,0
+6,8,0
+13,9,0
+8,8,0
+8,9,0
+4,8,0
+8,14,0
+2,4,0
+8,13,0
+9,7,0
+7,10,0
+7,6,0
