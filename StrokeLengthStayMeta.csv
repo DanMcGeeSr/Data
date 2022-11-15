@@ -1,0 +1,30 @@
+Meta-analysis comparing length of stay for stroke patients.  ,,,,,,
+"Subscript1=specialist multidisciplinary team care, 2=routine care ",,,,,,
+"(Data from: Normand, Meta-Analysis Tutorial, Stat Med 1989)",,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+source,n1,los1,sd1,n2,los2,sd2
+Edinburgh,155,55,47,156,75,65
+Orpington-Mild,31,27,7,32,29,4
+Orpington-Moderate,75,64,17,71,119,29
+Orpington-Severe,18,66,20,18,137,48
+Montreal-Home,8,14,8,13,18,11
+Montreal-Transfer,57,19,7,52,18,4
+Newcastle(1993),34,52,45,33,41,34
+Umea(1985),110,21,16,183,31,27
+Uppsala(1982),60,30,27,52,23,20

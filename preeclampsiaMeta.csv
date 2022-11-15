@@ -1,0 +1,30 @@
+Preeclampsia is a condition that occurs only during pregnancy. ,,,
+Some symptoms of preeclampsia may include high blood pressure and protein in the urine these are data on trials of the use of diuretics to prevent its occurence.,,,
+,,,
+,,,
+,,,
+,,,
+cases1,number of cases in treated group,,
+cases0,number of cases in non-treated group,,
+noncases1,number of noncases in treated group,,
+noncases0,number of noncases in non-treated group,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+cases1,cases0,noncases1,noncases0
+14,14,117,122
+21,17,364,117
+14,24,43,24
+6,18,32,22
+12,35,999,725
+138,175,1232,1161
+15,20,491,504
+6,2,102,101
+65,40,88,62
