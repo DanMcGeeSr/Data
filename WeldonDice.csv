@@ -1,0 +1,34 @@
+Results in Weldon's Dice Data,
+"12 Dice were thrown simultaneously and the number of 4,5,6 counted.",
+Each toss of the 12 dice can be considered a binomial experiment with 12 independent tosses,
+"The probability of getting or 4,5, or 6 on any of the 12 experiments is .5",
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Successes  ,    Observed  
+0,0
+1,7
+2,60
+3,198
+4,430
+5,731
+6,948
+7,847
+8,536
+9,257
+10,71
+11,11
+12,0
