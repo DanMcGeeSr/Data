@@ -1,0 +1,33 @@
+﻿These are data from https://www.nytimes.com/wirecutter/reviews/at-home-covid-test-kits/,,,,
+They are the data for establishing the test properties of home testing for covid-19,,,,
+The test kits were all commercially available at the time of the article: 12/15/2022,,,,
+The article gives the sensitivity and specificity only but contains links to the manufactorer information,,,,
+"In all cases but three, the study data was retrieved from the manufactorer materials at the links",,,,
+"In two cases, Clinitest Rapid and Orasure InteliSwab, the sensitivities in the articles were not the same as in manufacturer's material",,,,
+,,,,
+"tpcp = test postive, comparison positive",,,,
+"tncp = test negative, comparison positive",,,,
+"tpcn = test positive, comparison negative",,,,
+"tncn = test negative, comparison negative",,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Name,tpcp,tncp,tpcn,tncn
+Abbott BinaxNow,99,18,5,338
+Access Bio CareStart,26,4,3,120
+Acon Flowflex,28,2,0,78
+BD Veritor ,33,6,1,597
+Celltrion DiaTrust ,39,6,1,446
+Clinitest Rapid ,117,20,1,139
+Ellume,35,2,5,156
+iHealth,33,2,2,102
+Intrivo On/Go,26,4,3,120
+On/Go One,28,2,0,78
+Orasure InteliSwab ,52,9,2,102
+Quidel QuickVue ,39,7,1,114
