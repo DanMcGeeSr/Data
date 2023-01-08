@@ -28,4 +28,4 @@ Days, Cumulative_DP,Cumulative_TP,Sensitivity,Lower_CI,Upper_CI
 7,117,99,84.60%,76.80%,90.60%
 8 to 10,144,118,81.90%,74.70%,87.90%
 11 to 14,161,126,78.30%,71.10%,84.40%
-All specimens 167,129,77.20%,70.10%,83.40%,
+All specimens ,167,129,77.20%,70.10%,83.40%
