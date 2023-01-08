@@ -18,7 +18,7 @@ https://www.fda.gov/media/147254/download,,,,,
 ,,,,,
 ,,,,,
 ,,,,,
-Days, Cumulative_DP,Cumulative_TP,Sensitivity,Lower_CI,Upper_CI
+Days, Total_DP,Total_TP,Sensitivity,Lower_CI,Upper_CI
 1,12,10,83.30%,51.60%,97.90%
 2,34,28,82.40%,65.50%,93.20%
 3,50,41,82.00%,68.60%,91.40%
